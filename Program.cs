@@ -1,7 +1,7 @@
 Personaje personaje = new Personaje
 {
     Nombre = "Arthas",
-    Vida = -100,
+    Vida = 100,
     Ataque = 25,
     Defensa = 15,
     Nivel = 5
